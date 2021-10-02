@@ -21,7 +21,10 @@
     "autoload": {
         "psr-4": {
             "PaulhenriL\\PhpFormatStatNumber\\": "src/"
-        }
+        },
+        "files": [
+            "src/fsn.php"
+        ]
     },
     "autoload-dev": {
         "psr-4": {
